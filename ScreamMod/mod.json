@@ -1,0 +1,19 @@
+{
+  "Name": "Scream mod",
+  "Author": "Skullex",
+  "Description": "This mod adds your nightmares",
+  "ModVersion": "1.0",
+  "GameVersion": "1.11",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Scream.Scream",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "Scream.cs",
+    "Resources.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}

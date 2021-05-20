@@ -1,0 +1,29 @@
+this is now a changelog for the mod <tracking additions for later use idfk>
+
+scream mod by Kass and James.
+
+version 0.6
+
+i TRIED to add error handling... oh well its just gonna explain the compatability issues.
+hopefully i FUCKING fix that because its starting to get on my nerves...
+
+
++ try, catch statments to let the user know about the errors
+
+
+Version 0.7
+
+rewrited a shitton of shit <thanks zooi, kass, and bbq,>
+this should fix that fucking bug
+
+planned: 
+
+electricity
+dismemberment
+some drowning sounds.
+falling
+blunt damage
+
+version 0.8
+yaaaaaaay we did it! afterspawn works now!! (thanks aspa102)
+bone breaking time
