@@ -5,7 +5,7 @@ scream mod by Kass and James.
 version 0.6
 
 i TRIED to add error handling... oh well its just gonna explain the compatability issues.
-hopefully i FUCKING fix that because its starting to get on my nerves...
+hopefully i fix that because its starting to get on my nerves...
 
 
 + try, catch statments to let the user know about the errors
@@ -13,8 +13,8 @@ hopefully i FUCKING fix that because its starting to get on my nerves...
 
 Version 0.7
 
-rewrited a shitton of shit <thanks zooi, kass, and bbq,>
-this should fix that fucking bug
+rewrited a lot <thanks zooi, kass, and bbq,>
+this should fix that bug
 
 planned: 
 
@@ -26,4 +26,5 @@ blunt damage
 
 version 0.8
 yaaaaaaay we did it! afterspawn works now!! (thanks aspa102)
++added afterspawn loading so it doesnt cry when used with other mods
 bone breaking time
